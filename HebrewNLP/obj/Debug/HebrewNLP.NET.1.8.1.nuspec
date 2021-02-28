@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HebrewNLP.NET</id>
+    <version>1.8.1</version>
+    <authors>HebrewNLP</authors>
+    <owners>HebrewNLP</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://hebrew-nlp.co.il/assets/eula.html</licenseUrl>
+    <projectUrl>https://hebrew-nlp.co.il/</projectUrl>
+    <description>C# Library for HebrewNLP API</description>
+    <releaseNotes>* Added types of part of speech, subordinaation, construct state and  changed the name of person.</releaseNotes>
+    <copyright>Copyright 2018 hebrew-nlp.co.il</copyright>
+    <tags>nlp natrual-language-processing hebrew</tags>
+    <repository type="GitHub" url="https://github.com/HebrewNLP/HebrewNLP.NET" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\2021\פרויקט\ניתוח\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll" target="lib\netstandard2.0\HebrewNLP.dll" />
+  </files>
+</package>

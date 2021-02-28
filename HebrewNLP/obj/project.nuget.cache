@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PF4zRhovWqdubq/1i8i0z6mie68NrQrkl5sL5sQ4JdvadNjICV+lExCZHAJ8YksEOm26lLClKarxnCjMWZFWsQ==",
+  "success": true,
+  "projectFilePath": "L:\\שנה ב\\משרד החינוך\\תלמידות\\תקיה חשאית\\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\\4.12.20 פרויקט\\שמוש בספריה+אלגוריתם HEBREWNLP\\HebrewNLP\\HebrewNLP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s-sys\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\s-sys\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\s-sys\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

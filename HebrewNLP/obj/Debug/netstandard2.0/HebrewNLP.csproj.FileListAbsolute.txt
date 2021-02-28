@@ -1,0 +1,54 @@
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+C:\Users\admin\Downloads\HebrewNLP.NET-master\HebrewNLP.NET-master\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+L:\שנה ב\משרד החינוך\תלמידות\תקיה חשאית\הנדסת תוכנה שנה ב משרד החינוך תלמידות תקיה חשאית\4.12.20 פרויקט\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\7.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\15.12.20\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\ניתוח\שמוש בספריה+אלגוריתם HEBREWNLP\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\ניתוח\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.deps.json
+C:\2021\פרויקט\ניתוח\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\ניתוח\HebrewNLP\bin\Debug\netstandard2.0\HebrewNLP.pdb
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csprojAssemblyReference.cache
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.csproj.CoreCompileInputs.cache
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfoInputs.cache
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.AssemblyInfo.cs
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.dll
+C:\2021\פרויקט\ניתוח\HebrewNLP\obj\Debug\netstandard2.0\HebrewNLP.pdb
